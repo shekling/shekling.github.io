@@ -23,6 +23,9 @@ img {
     border: 4px pink solid;
 }
 
+.three-d-text {
+    text-shadow: 5px 10px 5px grey;
+}
 .my-h2 {
     font-size: 17em;
 }
