@@ -25,3 +25,7 @@ img {
 .my-h2 {
     font-size: 17em;
 }
+
+body {
+    background-color: pink;
+}
