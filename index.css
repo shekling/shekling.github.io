@@ -1,10 +1,11 @@
 
 em {
     font-weight: bold;
+    font-style: normal;
     text-decoration: underline;
     color: red;
 }
 
 body {
-    background-image: url('Images/dog.jpg width="76px"');
+    background-image: url('Images/dog.jpg');
 }
