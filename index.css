@@ -1,6 +1,10 @@
 
 em {
     font-weight: bold;
-    text-decoloration: underline;
+    text-decoration: underline;
     color: red;
+}
+
+body {
+    background-image: url('Images/dog.jpg');
 }
