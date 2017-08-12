@@ -3,9 +3,25 @@ em {
     font-weight: bold;
     font-style: normal;
     text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: dashed;
     color: red;
 }
 
 body {
     background-image: url('Images/dog.jpg');
+}
+
+h1 {
+border: 2px blue dashed;
+padding: 7px;
+margin-bottom: 50px;
+}
+
+img {
+    border: 4px pink solid;
+}
+
+.my-h2 {
+    font-size: 3em;
 }
